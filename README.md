@@ -1,1 +1,1 @@
-## Operating systems studies :books:
+## Operating systems studies using POSIX :gear:
